@@ -17,7 +17,7 @@ The project is modular and organized into three main files:
 
 - **main.py**: The Streamlit frontend, handling the user interface and orchestrating backend logic calls.
 - **analysis_answer.py**: The core backend logic for image search, analysis, OCR, and the RAG pipeline.
-- **retrive.py**: A dedicated library for managing data storage and retrieval from the Google Sheet.
+- **retrieve.py**: A dedicated library for managing data storage and retrieval from the Google Sheet.
 
 ## 🚀 Setup and Installation
 
