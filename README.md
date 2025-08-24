@@ -71,14 +71,3 @@ The application will open in your default web browser.
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/8riddesh/Image-Understanding-and-Retrieval/issues).
-
-## Contact
-
-For any questions, please open an issue or reach out via GitHub.
